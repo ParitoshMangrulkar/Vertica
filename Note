@@ -1,0 +1,1 @@
+Extract SQLs from History : select * from query_requests where request like '%TID%'
